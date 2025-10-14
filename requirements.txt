@@ -1,0 +1,22 @@
+# Core Python Libraries
+numpy>=1.24.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+
+# NLP and Embeddings
+langchain>=0.2.0
+sentence-transformers>=2.2.2
+openai>=1.12.0
+tiktoken>=0.5.2
+
+# Vector Database and Search
+faiss-cpu>=1.7.4
+chromadb>=0.4.24
+
+# Utilities and Environment
+python-dotenv>=1.0.0
+requests>=2.31.0
+
+# Notebook and Development
+jupyter>=1.0.0
+ipykernel>=6.29.0
